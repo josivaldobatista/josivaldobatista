@@ -1,6 +1,5 @@
 
 # Hi there!👋 
-## Welcome to my profile! How is it going? ☺️
+### Welcome to my profile! How is it going? ☺️
 
-> Learning is continuous and there will always be a next level!
-
+![teste](https://i.pinimg.com/originals/33/58/33/33583360a5af1e4e0b80593259c17dc7.jpg)
